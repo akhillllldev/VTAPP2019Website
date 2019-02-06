@@ -1,0 +1,211 @@
+V-TAPP 2019
+Events Proposed by CSE Department
+Secure Coding
+Want to be the programmer what hot tech companies are looking for?
+Take your programming skills to the next level and prove your excellence by learning how to succeed in programming
+competitions.
+Besides improving your knowledge of algorithms and programming languages, you’ll gain unique experience in problem
+solving, thinking outside the box and meeting tough deadlines and securely coding – all essential for boosting your
+value as a programmer. If you think yourself as a good programmer who can write code without any flaw, here is an
+opportunity for you to prove your skillset.
+Two rounds
+Online Prelims
+Online Main
+
+This Competition registration is open for all students who are interested programming. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+Think Smart challenge
+Think Smart challenge is a programming challenge that will test your product development skills.
+
+This event will be conducted in two phases -
+1. To propose
+2. To implement
+
+Participants are supposed to propose solutions to the given problems / themes and then implement the same within the
+given time frame.
+
+Themes / Problems will be launched prior to the event.
+This Competition registration is open for all students who are hackathons. The numbers of registration are limited.
+
+The fee for the Competition is: Rs 150
+
+
+
+Python Programing challenge in V-PROPEL
+Come check your python programming skills which will help you gain experience and knowledge for industry placements.
+This Competition registration is open for all students who are good at programming in Python. The numbers of
+registration are limited.
+
+The fee for the Competition is: Rs 150
+
+V-TAPP 2019
+Events Proposed by ECE Department
+
+CIRCUITRONICS (Theme – Design of a Practical Application)
+Round 1: (Identification of given application)
+This is a pen and paper round. The teams will be given a set of questions that have to be answered in the given time.
+The questions will be in the form of MCQs, riddles, puzzles, component identification, etc. The time of completion will
+be noted and the top 20 teams that get the maximum correct answers in the least amount of time qualify for the 2nd
+round. The outcome of this round should be the identification of the given application and its circuit diagram/design of
+required components.
+Round 2: (Software simulation of the circuit)
+Each team has to do a simulation and verify the functionality of the designed circuit within the given time. The teams,
+which successfully produces the desired output will qualify for round-3.
+Round 3: (Hardware prototype building)
+Breadboard based hardware prototype has to be built within the given time. This has to produce the desired output and
+match the output of software simulation done in round-2.
+
+This Competition registration is open for all students who are interested in circuits. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+ELECTROHUNT (Theme – Treasure Hunt and Circuit Building)
+Electrohunt is basically a technical event that resembles treasure hunt. The event consists of two rounds given as
+follows. There is no specific time limit for each round. However, time limit is there for completing overall contest.
+
+Round 1: (Chasing the Treasure)
+Each team has to chase the treasure and find the components related to a circuit that are kept at different places of
+the University based on the hints/riddles/puzzles given to them. The teams came back with all the components will
+qualify for round-2 immediately they chased the treasure.
+Round 2: (Software simulation of the circuit)
+With the identified components, they should build the given circuit and show the desired output. Those who finish the
+total task first will be the winners.
+This Competition registration is open for all students who are interested in circuits. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+WARDUINO (Theme – Coding and Implementation Contest)
+This is an Arduino based contest. The event provides a platform to compete and unveil the real engineer within oneself.
+The teams will be given with a question, for which they need to develop the code and build a prototype using Arduino
+boards within the specified time. The team who builds the working model first will be the winner.
+
+This Competition registration is open for all students who are interested in building prototypes using Arduino based
+Solutions. The numbers of registration are limited.
+
+The fee for the Competition is: Rs 150
+
+VIOTicon (Theme – IoT Solution for Social Entrepreneurship)
+The participants will be provided with a social problem that is presently one of the major concerns of our locality. The
+participants have to come up with an innovative and feasible solution of the given problem, and convert it into a
+start-up at their level. They have to pitch their idea in front of the panel of judges and have to answer the questions
+regarding their idea and its feasibility in real life.
+
+This Competition registration is open for all students who are interested in building IoT Solutions. The numbers of
+registration are limited.
+
+The fee for the Competition is: Rs 150
+
+ROBOMANIA (Theme – Robo Expo)
+This is a robo expo contest. The teams will showcase their robos that are developed for various applications. The panel
+of judges will evaluate the best robos based on its development procedure, purpose, practical application, societal
+benefits, etc.
+
+This Competition registration is open for all students who are interested in building robots. The numbers of
+registration are limited.
+
+The fee for the Competition is: Rs 150
+
+
+
+
+V-TAPP 2019
+Events Proposed by VSB Department
+
+
+Best Manager
+A manager is to an organisation what a Honeybee is to a Bee hive, instilling purpose into their flights like a honeybee
+that collects nectar, a manager should also be equally resourceful, patient and persistent. Those are just a few from
+the list of must-haves for a manager.
+V-TAPP 2019 Best Manager event, is where it all gets real and tough. Survival through a nexus of most challenging rounds
+will only tell what mettle you behold. The event of Best Manager will explore the intellectual capability of a budding
+manager, his/her decision making skills and behaviour will be evaluated under stressed condition. A two-day event, a
+battle with some of the best brains across the country and the ladder to victory is all it takes to dig out the Best
+Manager this year in 2019.
+
+Event will have 4 rounds in total.
+
+Self-introduction to be done by video and send it to us in the first week of March 2019 before 5 days from the event.
+Written Test - GK - Current Affairs – etc
+Case Study to be prepared and presented
+Stress Interview - Final Round
+
+
+This Competition registration is open for all students who are interested management. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+V-TAPP 2019
+Events Proposed by Mechanical Department
+
+Design of Electric Two Wheeler
+
+This competition is related with the design of a concept two wheeler for Indian conditions. The
+proposed design is for the student’s segment.
+
+Skill required to participate is knowledge of Solid Works.
+
+This Competition registration is open for all students who are interested in Designing. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+V-TAPP 2019
+General Events
+Game-A-Thon
+
+Game-A-Thon (GAT) is one of our annual gaming meet. Apart from gaming, students also get to socialize and interact with
+other persons from various communities and backgrounds. GAT has been in huge success in the gaming community and has
+built an immense platform for players from across the country to meet during V-TAPP 2019.
+
+This Competition registration is open for all students who are interested in gaming. The numbers of registration are
+limited.
+
+The fee for the Competition is: Rs 150
+
+Smartphone Film making
+V-TAPP is organizing a movie making competition to bring forth the issues of social injustice. They are looking for
+outstanding works on Human rights, Women rights, Child rights, Disability etc. to be expressed to the wider audience.
+Grab your smart phones and bring life to the amazing ideas roaming inside your head to win exciting prizes.
+
+This Competition registration is open for all students who are interested in Film making. The numbers of registration
+are limited.
+
+The fee for the Competition is: Rs 150
+
+Photography VIT-AP
+If you think that you are a good photographer, here is an opportunity. Take your camera and capture each and every
+stunning moment and win exciting prizes.
+
+This Competition registration is open for all students who are interested in Photography. The numbers of registration
+are limited.
+
+The fee for the Competition is: Rs 150
+
+Paper and Poster Presentations
+A “Paper Presentation” means an academic exercise where you demonstrate your grasp of the Research Methodology through a
+sample Research Paper, on a well-defined theme, showing past work done by others, indexed in accordance with citation
+protocol, and a summary that shows the state of knowledge as it stands just before you start your study, a hint of what
+you have been able to identify as the possible hypothesis emanating from your limited study, and suggesting a proper
+Research study for validation or rejection of the Hypothesis. You can include possible methodology for the study, any
+innovative approach which you may propose, without compromising the need for objectivity in the study, and any other
+special features that you want the audience to know. The Paper should be a mini version of a Standard Research.  
+
+This Competition registration is open for all students who are interested in presenting their novel work. The numbers of
+registration are limited.
+
+The fee for the Competition is: Rs 150
+
+Just-in-Time (Technical)
+If you are a good technical speaker and want to debate your technical on technical side. Here is an opportunity for you
+to test your technical skills.
+
+This Competition registration is open for all students who are interested in technical debate. The numbers of
+registration are limited.
+
+The fee for the Competition is: Rs 150

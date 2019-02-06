@@ -1,0 +1,33 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto");
+
+.jumbotron {
+  background-color: transparent !important;
+  color: #f5f5f5 !important;
+  font-weight: bold;
+  margin-top: 5rem;
+  z-index: -1;
+  height: 90vh;
+}
+
+.jumbotron .container h1 {
+  font-size: 10rem !important;
+  font-weight: bold;
+  letter-spacing: 2px;
+  z-index: -1;
+}
+
+canvas {
+  position: fixed;
+  height: 50vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+}
+
+.card {
+  z-index: 1000000000;
+}
+
+.navbar {
+  z-index: 100000000;
+}

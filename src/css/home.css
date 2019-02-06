@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css?family=Oswald");
+@import url("https://fonts.googleapis.com/css?family=Nunito");
+body {
+  width: 100%;
+  margin: 0;
+  overflow-x: hidden;
+}
+
+#canv {
+  position: absolute;
+  z-index: -1;
+  height: 100vh;
+  width: 100vw;
+}
+
+.jumbotron {
+  background-color: transparent;
+  transform: translateY(22rem);
+}
+
+.timer-container {
+  transform: translateY(21.4rem);
+  padding: 2.5rem;
+  color: #f5f5f5;
+  letter-spacing: 2px;
+  font-family: "Nunito", sans-serif;
+  font-weight: bold;
+  background: #0f2027; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #2c5364,
+    #203a43,
+    #0f2027
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #2c5364, #203a43, #0f2027);
+}
+
+.timer-container h1 {
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+
+#clock {
+  font-size: 2rem;
+}
+
+.embed-responsive {
+  transform: translateY(23rem);
+  margin-bottom: 4rem;
+}
+/* MEDIA QUERIES*/
+
+/* MEDIA QUERIES*/
