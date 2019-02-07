@@ -225,7 +225,11 @@ var text = function() {
   var txt = "VIT-AP's International Techfest"
     .split("")
     .join(String.fromCharCode(0x2004));
-  $.font = "3em Oswald";
+  if (jQuery(window).width() <= 550) {
+    $.font = "1em Oswald";
+  } else if (jQuery(window).width() <= 1050) {
+    $.font = "1.5em Oswald";
+  } else $.font = "3em Oswald";
   $.fillStyle = "black";
   $.fillText(txt, (c.width - $.measureText(txt).width) * 0.5, c.height * 0.35);
   return txt;

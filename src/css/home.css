@@ -4,6 +4,7 @@ body {
   width: 100%;
   margin: 0;
   overflow-x: hidden;
+  background-color: #f5f7f7;
 }
 
 #canv {
@@ -47,6 +48,20 @@ body {
 .embed-responsive {
   transform: translateY(23rem);
   margin-bottom: 4rem;
+}
+
+.teaser {
+  transform: translateY(22rem);
+  margin-top: 5rem;
+}
+
+.car {
+  transform: translateY(20rem);
+}
+
+.gallery {
+  transform: translateY(20rem);
+  margin-top: 7rem;
 }
 /* MEDIA QUERIES*/
 
