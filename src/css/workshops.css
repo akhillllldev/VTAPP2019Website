@@ -36,3 +36,20 @@ canvas {
 .modal {
   z-index: 999999999999999999999999999999;
 }
+
+@media only screen and (max-width: 780px) {
+  .jumbotron .container h1 {
+    font-size: 7rem !important;
+    font-weight: bold;
+    letter-spacing: 2px;
+    z-index: -1;
+  }
+}
+@media only screen and (max-width: 480px) {
+  .jumbotron .container h1 {
+    font-size: 4.5rem !important;
+    font-weight: bold;
+    letter-spacing: 2px;
+    z-index: -1;
+  }
+}
