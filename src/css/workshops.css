@@ -24,6 +24,15 @@ canvas {
   left: 0;
 }
 
+.card {
+  z-index: 1000000000;
+  background-color: #f5f7f7;
+}
+
 .navbar {
   z-index: 100000000;
+}
+
+.modal {
+  z-index: 999999999999999999999999999999;
 }
